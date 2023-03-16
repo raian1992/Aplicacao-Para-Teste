@@ -1,0 +1,37 @@
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.exe.config
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.exe
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.pdb
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\OpenPop.dll
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.frmprinc.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormBackup.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormCOMANDOSFIREBIRD.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormComandoSQLserver.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormRestore.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormSobre.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormTesteConfigEmail.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.Properties.Resources.resources
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.csproj.GenerateResource.Cache
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.exe
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.pdb
+C:\Users\Raian\documents\visual studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\OpenPop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.frmprinc.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormBackup.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormCOMANDOSFIREBIRD.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormComandoSQLserver.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormRestore.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormSobre.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.FormTesteConfigEmail.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\AplicacoesparaTeste.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\bin\Debug\Aplicação para Teste.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AplicacoesparaTeste\AplicacoesparaTeste\obj\Debug\Aplicação para Teste.application
